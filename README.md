@@ -45,5 +45,3 @@ The project displays a monthly calendar with interactive mouse controls and also
 - Turbo C++ / Dev-C++ / WinBGIm
 - Properly configured `graphics.h`
 ---
-
-## Screenshots
